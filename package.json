@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "preinstall": "corepack enable && corepack prepare yarn@4.9.2 --activate",
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "lint": "eslint .",
