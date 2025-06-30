@@ -53,7 +53,7 @@
   "main": "q",
   "repository": "https://github.com/PNC-012025/pnc-proyecto-final-frontend-ft-grupo-07-s02.git",
   "author": "AvalosJorge00009322 <00009322@uca.edu.sv>",
-  "license": "MIT"
+  "license": "MIT",
   "engines": {
   "node": ">=16.9"
 }
